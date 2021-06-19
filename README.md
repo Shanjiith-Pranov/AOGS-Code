@@ -24,4 +24,5 @@ The server code is run on the dedicated server. <br />
 This repository is not open for contributon
 
 ## License
-This code is not yet liscenced
+
+Licensed under the [MIT](LICENSE.txt) license.
