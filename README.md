@@ -1,15 +1,15 @@
 # AOGS-Code
 This project was made for the AOGS International Geo-Science Challenge 2021 <br />
-Section Disciplines: Solid Earth Sciences (SE)
+Section Disciplines: Solid Earth Sciences (SE) <br />
 Catagory: Local, Secondary School <br />
 Protect Title: Development of an affordable Earthquake detection system <br />
 Project ID: LSS-SST3 <br />
 
 ## The Team
-[Shanjiith](https://github.com/Shanjiith-Pranov) - Group Leader
-[Xavier](https://github.com/Xavier3372) - Coder
-[Jerick](https://github.com/jer123se12) - Writer
-[Ryan](https://github.com/theboi) - Researcher
+[Shanjiith](https://github.com/Shanjiith-Pranov) - Group Leader <br />
+[Xavier](https://github.com/Xavier3372) - Coder <br />
+[Jerick](https://github.com/jer123se12) - Writer <br />
+[Ryan](https://github.com/theboi) - Researcher <br />
 
 ## Usage
 To use this code, a ThinkXtra X-Kit Sigfox Development Kit, a subsciption to Sigfox and a dedicated server is required.
