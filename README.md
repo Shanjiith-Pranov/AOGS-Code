@@ -1,7 +1,7 @@
 # AOGS-Code
 This project was made for the AOGS International Geo-Science Challenge 2021 <br />
 Section Disciplines: Solid Earth Sciences (SE) <br />
-Catagory: Local, Secondary School <br />
+Category: Local, Secondary School <br />
 Protect Title: Development of an affordable Earthquake detection system <br />
 Project ID: LSS-SST3 <br />
 
